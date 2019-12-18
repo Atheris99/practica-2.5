@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(218, 218, 218);
+}
+
+p {
+    background-color: rgb(180, 180, 180);
+}
+
+span {
+    color: rgb(51, 134, 161);
+}
+
+strong {
+    color:  rgb(51, 134, 161);
+}
+
+h2 {
+    background-color: rgb(51, 134, 161);
+    text-decoration: underline;
+}
+
+h3 {
+    background-color:  rgb(69, 175, 211);
+}
+
+footer {
+    background-color: white;
+    text-align: right;
+}
